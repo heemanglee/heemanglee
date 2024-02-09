@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=w1shope&fontColor=ffffff&fontSize=90&fontAlign=75&fontAlignY=35)
 <div align="center">
 
 ### 💁🏻 Information
@@ -19,10 +18,6 @@ ___
 <br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-___
-
-### 💻 Algorithm
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wishhope)](https://solved.ac/wishhope)
 ___
 
 ### ✍️ Blog
