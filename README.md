@@ -11,6 +11,6 @@ ___
 ### ✍️ Blog
 https://server-technology.tistory.com
 
-### 📧 email  
+### 📧 Email  
 wishhopelee@gmail.com
 </div>
