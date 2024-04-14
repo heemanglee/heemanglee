@@ -15,7 +15,7 @@ https://server-technology.tistory.com
 wishhopelee@gmail.com
 
 ___
-### 🎯 Contribution
+### 🎯 Contributions
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" />
 </a>
