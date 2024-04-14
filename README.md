@@ -15,4 +15,5 @@ https://server-technology.tistory.com
 wishhopelee@gmail.com
 </div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+___
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w1shope&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
