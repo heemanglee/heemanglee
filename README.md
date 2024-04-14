@@ -17,10 +17,10 @@ wishhopelee@gmail.com
 ___
 ### 🎯 Contribution
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1shope&layout=compact&exclude_repo=w1shope&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1shope&exclude_repo=w1shope&theme=tokyonight" />
 </a>
 <div>
 <br>
