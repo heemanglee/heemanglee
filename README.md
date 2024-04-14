@@ -13,10 +13,9 @@ https://server-technology.tistory.com
 
 ### 📧 Email  
 wishhopelee@gmail.com
-</div>
 
 ___
-<div>
+### 🎯 Contribution
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" width="42%" />
 </a>
@@ -27,3 +26,6 @@ ___
 <br>
   
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w1shope&theme=react&custom_title=%20&hide_border=true)
+
+
+</div>
