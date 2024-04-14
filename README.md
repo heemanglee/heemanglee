@@ -20,7 +20,7 @@ ___
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1shope&exclude_repo=w1shope&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" width="55%" />
 </a>
 <div>
 <br>
