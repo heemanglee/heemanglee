@@ -16,4 +16,14 @@ wishhopelee@gmail.com
 </div>
 
 ___
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w1shope&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1shope&exclude_repo=w1shope&layout=compact&theme=tokyonight" />
+</a>
+<div>
+<br>
+  
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w1shope&theme=react&custom_title=%20&hide_border=true)
