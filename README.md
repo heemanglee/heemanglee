@@ -6,8 +6,8 @@ University : Dong-A University
 Department : Computer Science and Engineering
 <br>
 Interests : Java backend developer
-___
-### 🎯 Contributions
+<br>
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" />
 </a>
@@ -16,7 +16,9 @@ ___
 </a>
 <div>
 <br>
-
+  
+___
+### 🎯 Contributions
 <div>
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
