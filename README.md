@@ -7,14 +7,6 @@ Department : Computer Science and Engineering
 <br>
 Interests : Java backend developer
 ___
-
-### ✍️ Blog
-https://server-technology.tistory.com
-
-### 📧 Email  
-wishhopelee@gmail.com
-
-___
 ### 🎯 Contributions
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=w1shope&theme=tokyonight&show_icons=true" />
