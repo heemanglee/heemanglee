@@ -4,7 +4,8 @@
   - University : Dong-A University
   - Department : Computer Science and Engineering
   - Interests : Java backend developer
-
+  - Email : wishhopelee@gmail.com
+  - Blog : https://server-technology.tistory.com
 </div>
 <br>
 
@@ -61,7 +62,10 @@
 <!-- 프로젝트 -->
 <div>
   <h1>🧑🏻‍💻 Projects</h1>
-  <h3>회고 보드 웹 애플리케이션</h3>
+  <h3>게시판 웹 애플리케이션</h3>
   
+  <h3>회고 보드 웹 애플리케이션</h3>
+
+  - Backend
   - 2024.02 ~ ing
 </div>
