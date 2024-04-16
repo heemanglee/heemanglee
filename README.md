@@ -66,6 +66,7 @@
   
   <h3>회고 보드 웹 애플리케이션</h3>
 
+  - <a href="https://github.com/donga-it-club/past-foward-backend">Contributions</a>
   - Backend
   - 2024.02 ~ ing
 </div>
