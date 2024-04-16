@@ -62,9 +62,8 @@
 <!-- 프로젝트 -->
 <div>
   <h1>🧑🏻‍💻 Projects</h1>
-  <h3>게시판 웹 애플리케이션</h3>
   
-  <h3>회고 보드 웹 애플리케이션</h3>
+  <h3>1. 회고 보드 웹 애플리케이션</h3>
 
   - <a href="https://github.com/donga-it-club/past-foward-backend">Contributions</a>
   - Backend
