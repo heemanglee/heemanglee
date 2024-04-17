@@ -9,6 +9,8 @@
 </div>
 <div>
   
+  ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+  <br>
   ![Metrics](/github-metrics.svg)
   
 </div>
