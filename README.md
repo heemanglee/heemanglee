@@ -69,6 +69,7 @@
 <h1>🤔 What to do next</h1>
 
 - Spring Security
+- Redis
 - Test Driven Development
   
 </div>
