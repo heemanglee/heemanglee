@@ -43,14 +43,14 @@
 <!-- 블로그 포스트 -->
 <div>
 <h1>📝 Posts</h1>
-
-- <a href="https://server-technology.tistory.com/247">[Spring] 엔티티 설계에 대한 고민, @Builder와 Validation 그리고 @Auditing 등</a>
-
-- <a href="https://server-technology.tistory.com/280">[Spring] GitHub Actions의 CI 문제, 그리고 AWS Secrets Manager</a>
+  
+- <a href="https://server-technology.tistory.com/303">[Spring] AWS SES를 사용하여 메일을 보내기</a>
 
 - <a href="https://server-technology.tistory.com/299">[Spring] Profile 적용 방법 및 우선 순위</a>
 
-- <a href="https://server-technology.tistory.com/303">[Spring] AWS SES를 사용하여 메일을 보내기</a>
+- <a href="https://server-technology.tistory.com/280">[Spring] GitHub Actions의 CI 문제, 그리고 AWS Secrets Manager</a>
+
+- <a href="https://server-technology.tistory.com/247">[Spring] 엔티티 설계에 대한 고민, @Builder와 Validation 그리고 @Auditing 등</a>
 
 - <a href="https://server-technology.tistory.com/289">[JPA] OSIV(Open Session In View) 정리</a>
 
