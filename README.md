@@ -7,13 +7,14 @@
   - Email : wishhopelee@gmail.com
   - Blog : https://server-technology.tistory.com
 </div>
+<br>
 <div>
   
+  ![Metrics](/github-metrics.svg)
   <br>
   ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
   
 </div>
-<br>
 
 <!-- 기술 스택 -->
 <div>
