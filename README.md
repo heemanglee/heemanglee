@@ -65,6 +65,14 @@
 </div>
 <br>
 
+<div>
+<h1>🤔 What to do next</h1>
+
+- Spring Security
+- Test Driven Development
+  
+</div>
+<br>
 
 <!-- 프로젝트 -->
 <div>
