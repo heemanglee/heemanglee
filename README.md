@@ -70,7 +70,7 @@
 
 - Spring Security
 - Redis
-- Test Driven Development
+- TDD
   
 </div>
 <br>
