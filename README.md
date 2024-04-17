@@ -7,6 +7,11 @@
   - Email : wishhopelee@gmail.com
   - Blog : https://server-technology.tistory.com
 </div>
+<div>
+  
+  ![Metrics](/github-metrics.svg)
+  
+</div>
 <br>
 
 <!-- 기술 스택 -->
