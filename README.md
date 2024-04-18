@@ -100,5 +100,5 @@
       - GitHub
       - Slack / Notion / Discord
   - 수행 업무
-    - 
+    - 작성중
 </div>
