@@ -94,7 +94,7 @@
     - Server
       - AWS EC2, AWS RDS, AWS S3
     - Tools
-      - IntelliJ IEA
+      - IntelliJ IDEA
       - Junit5 / Mockito
     - Collaborations
       - GitHub
