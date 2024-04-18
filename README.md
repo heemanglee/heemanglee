@@ -89,6 +89,7 @@
       - Java / Spring Boot
       - Spring Data JPA
       - Spring Security
+      - QueryDSL
     - DB
       - MySQL 
     - Server
@@ -96,9 +97,15 @@
     - Tools
       - IntelliJ IDEA
       - Junit5 / Mockito
+      - SwaggerAPI
     - Collaborations
       - GitHub
       - Slack / Notion / Discord
   - 수행 업무
-    - 작성중
+    - 도메인(엔티티) 설계, 내부 로직 구현, 공통 응답 포맷 생성, 코드 리뷰, 코드 리팩토링
+      - 회고 카드 CRUD 작성
+      - 회고 카드 좋아요
+      - 회고 카드와 댓글 연동
+      - 프로필 이미지 등록을 위한 AWS S3 PresignedUrl 발급
+      - AWS SES를 사용한 이메일 전송
 </div>
