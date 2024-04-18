@@ -81,7 +81,24 @@
   
   <h3>1. 회고 보드 웹 애플리케이션</h3>
 
-  - <a href="https://github.com/donga-it-club/past-foward-backend">Contributions</a>
-  - Backend
-  - 2024.02 ~ ing
+  - <a href="https://github.com/donga-it-club/past-foward-backend">GitHub</a>
+  - 기간 : 2024.02 ~ ing
+  - 역할 : Backend
+  - 기술 스택
+    - Backend
+      - Java / Spring Boot
+      - Spring Data JPA
+      - Spring Security
+    - DB
+      - MySQL 
+    - Server
+      - AWS EC2, AWS RDS, AWS S3
+    - Tools
+      - IntelliJ IEA
+      - Junit5 / Mockito
+    - Collaborations
+      - GitHub
+      - Slack / Notion / Discord
+  - 수행 업무
+    - 
 </div>
