@@ -69,9 +69,12 @@
 <h1>🤔 What to do next</h1>
 
 - Spring Security
+  - JWT를 이용한 사용자 인증 정보(TOKEN)
 - Redis
 - TDD
-  
+- Spring에서 AWS 다루기
+- N+1 문제가 정확히 언제 발생하는지
+
 </div>
 <br>
 
@@ -108,8 +111,4 @@
       - 회고 카드와 댓글 연동
       - 프로필 이미지 등록을 위한 AWS S3 PresignedUrl 발급
       - AWS SES를 사용한 이메일 전송
-  - 부족하다고 느낀점
-    - JWT를 이용한 사용자 인증 정보(TOKEN)
-    - Spring에서 AWS 다루기
-    - N+1 문제가 정확히 언제 발생하는지
 </div>
