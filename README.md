@@ -4,8 +4,6 @@
   - University : Dong-A University
   - Department : Computer Science and Engineering
   - Interests : Java backend developer
-  - Email : wishhopelee@gmail.com
-  - Blog : https://server-technology.tistory.com
 </div>
 <br>
 <div>
@@ -69,11 +67,11 @@
 <h1>🤔 What to do next</h1>
 
 - Spring Security
-  - JWT를 이용한 사용자 인증 정보(TOKEN)
+  - JWT를 이용한 사용자 인증 정보
 - Redis
 - TDD
-- Spring에서 AWS 다루기
-- N+1 문제가 정확히 언제 발생하는지
+- Spring과 AWS 간의 흐름
+- N+1 문제
 
 </div>
 <br>
