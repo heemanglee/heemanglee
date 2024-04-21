@@ -67,11 +67,7 @@
 <h1>🤔 What to do next</h1>
 
 - Spring Security
-  - JWT를 이용한 사용자 인증 정보
-- Redis
-- TDD
-- Spring과 AWS 간의 흐름
-- N+1 문제
+- CORS
 
 </div>
 <br>
