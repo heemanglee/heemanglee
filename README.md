@@ -64,11 +64,18 @@
 <br>
 
 <div>
-<h1>🤔 What to do next</h1>
+  <h1>📌 Studying...</h1>
 
 - Spring Security
-- CORS
+  
+</div>
+<br>
 
+<div>
+<h1>🤔 What to do next</h1>
+  
+- CI/CD
+  
 </div>
 <br>
 
