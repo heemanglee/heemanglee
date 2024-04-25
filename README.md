@@ -49,7 +49,7 @@
 <div>
 <h1>📝 Posts</h1>
   
-- <a href="https://server-technology.tistory.com/303">[Spring] AWS SES를 사용하여 메일을 보내기</a>
+- <a href="https://server-technology.tistory.com/317">[Spring-Security] CORS(Corss-Origin Resource Sharing)와 SOP(Same-Origin Policy)</a>
 
 - <a href="https://server-technology.tistory.com/299">[Spring] Profile 적용 방법 및 우선 순위</a>
 
