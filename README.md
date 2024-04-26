@@ -55,6 +55,8 @@
 <div>
 <h1>📝 Posts</h1>
   
+- <a href="https://server-technology.tistory.com/319">[JPA] 양방향 참조 시에 발생하는 순환 참조 문제</a>
+
 - <a href="https://server-technology.tistory.com/317">[Spring-Security] CORS(Corss-Origin Resource Sharing)와 SOP(Same-Origin Policy)</a>
 
 - <a href="https://server-technology.tistory.com/299">[Spring] Profile 적용 방법 및 우선 순위</a>
@@ -64,8 +66,6 @@
 - <a href="https://server-technology.tistory.com/247">[Spring] 엔티티 설계에 대한 고민, @Builder와 Validation 그리고 @Auditing</a>
 
 - <a href="https://server-technology.tistory.com/289">[JPA] OSIV(Open Session In View) 정리</a>
-
-- <a href="https://server-technology.tistory.com/285">[JPA] 다른 Transaction에서 조회한 엔티티 비교</a>
 </div>
 <br>
 
