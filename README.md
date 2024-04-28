@@ -56,7 +56,7 @@
 <div>
 <h1>📝 Posts</h1>
 
-- <a href="https://server-technology.tistory.com/322">[Spring-Security] 인코딩(Encoding), 암호화(Encyrption), 해싱(Hashing) 차이점</a>
+- <a href="https://server-technology.tistory.com/322">[Spring-Security] 인코딩(Encoding), 암호화(Encyrption), 해싱(Hashing), 그리고 Spring Security에 적용하기</a>
   
 - <a href="https://server-technology.tistory.com/319">[JPA] 양방향 참조 시에 발생하는 순환 참조 문제</a>
 
