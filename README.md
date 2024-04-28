@@ -7,9 +7,10 @@
 </div>
 <br>
 <div>
-  
-  ![Metrics](/github-metrics.svg)
-  <br>
+  <!--
+    ![Metrics](/github-metrics.svg)
+  <br> -->
+
   ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
   
 </div>
