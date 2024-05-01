@@ -56,15 +56,16 @@
 <div>
 <h1>📝 Posts</h1>
 
+- <a href="https://server-technology.tistory.com/326">[Spring] 이미지를 AWS S3로 업로드하는 2가지 방법 (MultipartFile, PresignedUrl)</a>
+
+- <a href="https://server-technology.tistory.com/324">[Spring] JpaRepository를 사용할 때 @Transactional을 붙여야할까?</a>
+
 - <a href="https://server-technology.tistory.com/322">[Spring-Security] 인코딩(Encoding), 암호화(Encyrption), 해싱(Hashing), 그리고 Spring Security에 적용하기</a>
   
 - <a href="https://server-technology.tistory.com/319">[JPA] 양방향 참조 시에 발생하는 순환 참조 문제</a>
 
 - <a href="https://server-technology.tistory.com/317">[Spring-Security] CORS(Corss-Origin Resource Sharing)와 SOP(Same-Origin Policy)</a>
 
-- <a href="https://server-technology.tistory.com/280">[Spring] GitHub Actions의 CI 문제, 그리고 AWS Secrets Manager</a>
-
-- <a href="https://server-technology.tistory.com/289">[JPA] OSIV(Open Session In View) 정리</a>
 </div>
 <br>
 
