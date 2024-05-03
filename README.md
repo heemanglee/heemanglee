@@ -73,6 +73,7 @@
   <h1>📌 Studying...</h1>
 
 - Spring Security
+- JPA
   
 </div>
 <br>
@@ -86,38 +87,3 @@
 </div>
 <br>
 
-<!-- 프로젝트 -->
-<div>
-  <h1>🧑🏻‍💻 Projects</h1>
-  
-  <h3>1. 회고 보드 웹 애플리케이션</h3>
-
-  - <a href="https://github.com/donga-it-club/past-foward-backend">GitHub</a>
-  - 기간 : 2024.02 ~ ing
-  - 역할 : Backend
-  - 기술 스택
-    - Backend
-      - Java / Spring Boot
-      - Spring Data JPA
-      - Spring Security
-      - QueryDSL
-    - DB
-      - MySQL 
-    - Server
-      - AWS EC2, AWS RDS, AWS S3, AWS SES, AWS Secrets Manager
-    - Tools
-      - IntelliJ IDEA
-      - Junit5 / Mockito
-      - SwaggerAPI
-    - Collaborations
-      - GitHub
-      - Slack / Notion / Discord
-  - 수행 업무
-    - 도메인(엔티티) 설계, 내부 로직 구현, 공통 응답 포맷 생성
-      - 회고 카드 CRUD 작성
-      - 회고 카드 좋아요
-      - 회고 카드와 댓글 연동
-      - 프로필 이미지 등록을 위한 AWS S3 PresignedUrl 발급
-      - AWS SES를 사용한 이메일 전송
-    - 코드 리뷰, 코드 리팩토링, 유지 보수
-</div>
