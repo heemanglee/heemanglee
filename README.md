@@ -59,7 +59,7 @@
 
 - <a href="https://server-technology.tistory.com/329">[Spring] SSE(Server Sent Events)를 사용하여 실시간 알림 기능 사용하기</a>
 
-- <a href="https://server-technology.tistory.com/326">[Spring] 이미지를 AWS S3로 업로드하는 2가지 방법 (MultipartFile, PresignedUrl)</a>
+- <a href="https://server-technology.tistory.com/327">[Spring] 이미지를 AWS S3로 업로드하는 2가지 방법 (MultipartFile, PresignedUrl)</a>
 
 - <a href="https://server-technology.tistory.com/324">[Spring] JpaRepository를 사용할 때 @Transactional을 붙여야할까?</a>
 
