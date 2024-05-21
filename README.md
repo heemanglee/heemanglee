@@ -1,8 +1,6 @@
 <div>
   <h1>💁🏻 Information</h1>
 
-  - University : Dong-A University
-  - Department : Computer Science and Engineering
   - Interests : Java backend developer
   - Email : heemang.dev@gmail.com
 </div>
