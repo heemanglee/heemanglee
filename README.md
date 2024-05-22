@@ -5,14 +5,6 @@
   - Email : heemang.dev@gmail.com
 </div>
 <br>
-<div>
-  <!--
-    ![Metrics](/github-metrics.svg)
-  <br> -->
-
-  ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
-  
-</div>
 
 <!-- 기술 스택 -->
 <div>
