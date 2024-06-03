@@ -63,22 +63,3 @@
 
 </div>
 <br>
-
-<div>
-  <h1>📌 Studying...</h1>
-
-- Spring Security
-- JPA
-  
-</div>
-<br>
-
-<div>
-<h1>🤔 What to do next</h1>
-  
-- CI/CD
-- TDD
-  
-</div>
-<br>
-
