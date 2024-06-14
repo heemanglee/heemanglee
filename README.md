@@ -1,65 +1,59 @@
-<div>
-  <h1>💁🏻 Information</h1>
+# Information 
+현재 컴퓨터공학을 전공하고 있으며, 2025년 2월 졸업 예정입니다. <br>
+백엔드 엔지니어 포지션에 관심이 있으며, 주로 Java 언어를 사용한 Spring Boot를 이용하여 웹 개발을 합니다. <br>
+더 나은 엔지니어로 성장하기 위해 배움, 지식 공유 그리고 문제 해결하는 과정을 좋아합니다.
 
-  - Interests : Java backend developer
-  - Email : heemang.dev@gmail.com
-</div>
-<br>
 
-<!-- 기술 스택 -->
-<div>
-<h1>📚 Stacks</h1>
-<div align="left">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <br>
+- Interests : Java backend developer
+- Blog : [server-technology.tistory.com](https://server-technology.tistory.com/)
+- Email : heemang.dev@gmail.com
+- Education : 컴퓨터공학과, [Dong-A University](https://computer.donga.ac.kr/computer/CMS/Contents/Contents.do?mCode=MN063) (2019.02 ~ 2025.02)
+  - 성적 우수 장학생 (2024.03)
+  - 성적 우수 장학생 (2023.09)
+  - 성적 우수 장학생 (2023.03)
+  - 성적 우수 장학생 (2022.09)
+  - 성적 우수 장학생 (2022.03)
+  - 성적 우수 장학생 (2019.09)
 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/androidstudio-34A853?style=for-the-badge&logo=android&logoColor=white">
-  <br>
+# Skills
+###  Main Language
+- Java
+
+### Sub Language
+- Kotlin
+- Python
+- JavaScript
+
+### Backend
+- Spring Boot Framework
+- JPA (Hibernate), Spring Data JPA
+- QueryDsl
+
+### Dev-Ops
+- MySQL
+- Docker
+- Redis
+- AWS (EC2, RDS, S3)
   
-  <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-  <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/s3-569A31?style=for-the-badge&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/s3-DD344C?style=for-the-badge&logo=amazons3&logoColor=white">
-  <img src="https://img.shields.io/badge/secrets manger-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white">
-  <img src="https://img.shields.io/badge/ses-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white">
-  <br>
-  
-  
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <br>
+# Recent Blog Posts
+### Spring
+- <a href="https://server-technology.tistory.com/329"> SSE(Server Sent Events)를 사용하여 실시간 알림 기능 사용하기</a>
+- <a href="https://server-technology.tistory.com/327"> 이미지를 AWS S3로 업로드하는 2가지 방법 (MultipartFile, PresignedUrl)</a>
+- <a href="https://server-technology.tistory.com/322"> 인코딩(Encoding), 암호화(Encyrption), 해싱(Hashing), 그리고 Spring Security에 적용하기</a>
+- <a href="https://server-technology.tistory.com/317"> CORS(Corss-Origin Resource Sharing)와 SOP(Same-Origin Policy)</a>
+- <a href="https://server-technology.tistory.com/247"> 엔티티 설계에 대한 고민 </a>
 
-  <br>
-  
+### Spring Data JPA
+- <a href="https://server-technology.tistory.com/324"> JpaRepository를 사용할 때 @Transactional을 붙여야할까?</a>
+- <a href="https://server-technology.tistory.com/319"> 양방향 참조 시에 발생하는 순환 참조 문제 </a>
+- <a href="https://server-technology.tistory.com/289"> OSIV(Open Session In View) 정리 </a>
 
-</div>
-</div>
-<br>
-
-<!-- 블로그 포스트 -->
-<div>
-<h1>📝 Posts</h1>
-
-- <a href="https://server-technology.tistory.com/329">[Spring] SSE(Server Sent Events)를 사용하여 실시간 알림 기능 사용하기</a>
-
-- <a href="https://server-technology.tistory.com/327">[Spring] 이미지를 AWS S3로 업로드하는 2가지 방법 (MultipartFile, PresignedUrl)</a>
-
-- <a href="https://server-technology.tistory.com/324">[Spring] JpaRepository를 사용할 때 @Transactional을 붙여야할까?</a>
-
-- <a href="https://server-technology.tistory.com/322">[Spring-Security] 인코딩(Encoding), 암호화(Encyrption), 해싱(Hashing), 그리고 Spring Security에 적용하기</a>
-
-- <a href="https://server-technology.tistory.com/317">[Spring-Security] CORS(Corss-Origin Resource Sharing)와 SOP(Same-Origin Policy)</a>
-
-</div>
-<br>
+# Projects
+### Past Forward 
+- 회고 보드 사이트, 2024.03 ~ 현재
+- https://www.pastforward.link
+- [Github](https://github.com/donga-it-club/past-foward-backend)
+- 엔티티 설계
+- 회고 카드 CRUD
+- 이메일 Contact
+- 댓글 및 좋아요 알림 시스템
