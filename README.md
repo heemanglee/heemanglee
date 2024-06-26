@@ -18,9 +18,9 @@
 # Skills
 ###  Main Language
 - Java
+- Kotlin
 
 ### Sub Language
-- Kotlin
 - Python
 - JavaScript
 
