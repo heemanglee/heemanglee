@@ -21,7 +21,6 @@
 - Kotlin
 
 ### Sub Language
-- Python
 - JavaScript
 
 ### Backend
