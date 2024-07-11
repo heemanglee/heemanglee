@@ -37,7 +37,7 @@
 # Recent Blog Posts
 ### Spring
 
-- <a href="https://server-technology.tistory.com/452"> 다중 인스턴스에서 @Scheduled 문제</a>
+- <a href="https://server-technology.tistory.com/452"> 다중 인스턴스에서 @Scheduled 문제와 ShedLock 사용하기</a>
 - <a href="https://server-technology.tistory.com/329"> SSE(Server Sent Events)를 사용하여 실시간 알림 기능 사용하기</a>
 - <a href="https://server-technology.tistory.com/327"> 이미지를 AWS S3로 업로드하는 2가지 방법 (MultipartFile, PresignedUrl)</a>
 - <a href="https://server-technology.tistory.com/247"> 엔티티 설계에 대한 고민 </a>
