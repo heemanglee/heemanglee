@@ -25,6 +25,7 @@
 
 ### Backend
 - Spring Boot Framework
+- Spring Security
 - JPA (Hibernate), Spring Data JPA
 - QueryDsl
 
