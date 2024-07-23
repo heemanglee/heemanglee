@@ -1,6 +1,5 @@
 # Information 
-현재 컴퓨터공학을 전공하고 있으며, 2025년 2월 졸업 예정입니다. <br>
-백엔드 엔지니어 포지션에 관심이 있으며, 주로 Java 언어를 사용한 Spring Boot를 이용하여 웹 개발을 합니다. <br>
+백엔드 엔지니어 포지션에 관심이 있으며, 주로 <b>Java와 Spring Boot</b>를 사용하여 웹 개발을 합니다. <br>
 더 나은 엔지니어로 성장하기 위해 배움, 지식 공유 그리고 문제 해결하는 과정을 좋아합니다.
 
 
@@ -24,10 +23,11 @@
 - JavaScript
 
 ### Backend
-- Spring Boot Framework
+- Spring Boot Framework (Gradle)
 - Spring Security
+- Spring Data Redis
 - JPA (Hibernate), Spring Data JPA
-- QueryDsl
+- QueryDSL
 
 ### Dev-Ops
 - MySQL
