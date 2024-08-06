@@ -54,7 +54,7 @@
 
 # Projects
 ### Written-Me
-- 일기 작성 사이트, 2024.07
+- 일기 작성 사이트
 - 배포 URL : https://written-me.store (현재는 접속 안됩니다!)
 - Backend Repo : https://github.com/heemanglee/written-me
   
