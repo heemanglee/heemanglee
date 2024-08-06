@@ -53,11 +53,12 @@
 
 
 # Projects
+### Written-Me
+- 일기 작성 사이트, 2024.07
+- 배포 URL : https://written-me.store (현재는 접속 안됩니다!)
+- Backend Repo : https://github.com/heemanglee/written-me
+  
 ### Past Forward 
-- 회고 보드 사이트, 2024.03 ~ 현재
-- https://www.pastforward.link
-- [Github](https://github.com/donga-it-club/past-foward-backend)
-- 엔티티 설계
-- 회고 카드 CRUD
-- 이메일 Contact
-- 댓글 및 좋아요 알림 시스템
+- 회고 보드 사이트
+- 배포 URL : https://www.pastforward.link
+- Backend Repo : https://github.com/donga-it-club/past-foward-backend
