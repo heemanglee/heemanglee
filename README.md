@@ -34,6 +34,7 @@
 - Docker
 - Redis
 - AWS (EC2, RDS, S3)
+- CI/CD (Github Action)
   
 # Recent Blog Posts
 ### Spring
