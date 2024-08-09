@@ -1,6 +1,6 @@
-# Information 
-백엔드 엔지니어 포지션에 관심이 있으며, 주로 <b>Java와 Spring Boot</b>를 사용하여 웹 개발을 합니다. <br>
-더 나은 엔지니어로 성장하기 위해 배움, 지식 공유 그리고 문제 해결하는 과정을 좋아합니다.
+# 💁🏻 Information 
+<b>백엔드 개발자</b>에 관심이 있으며, 주로 <b>Java와 Spring Boot</b>를 사용하여 웹 개발을 하고 있습니다. <br>
+더 나은 개발자로 성장하기 위해 배움, 지식 공유 그리고 문제를 해결하는 과정을 좋아합니다.
 
 
 - Interests : Java backend developer
@@ -14,7 +14,7 @@
   - 성적 우수 장학생 (2022.03)
   - 성적 우수 장학생 (2019.09)
 
-# Skills
+# 📽️ Skills
 ###  Main Language
 - Java
 - Kotlin
@@ -28,6 +28,7 @@
 - Spring Data Redis
 - JPA (Hibernate), Spring Data JPA
 - QueryDSL
+- jQuery, Ajax
 
 ### Dev-Ops
 - MySQL
@@ -36,7 +37,7 @@
 - AWS (EC2, RDS, S3)
 - CI/CD (Github Action)
   
-# Recent Blog Posts
+# 📝 Recent Blog Posts
 ### Spring
 
 - <a href="https://server-technology.tistory.com/452"> 다중 인스턴스에서 @Scheduled 문제와 ShedLock 사용하기</a>
@@ -53,7 +54,7 @@
 - <a href="https://server-technology.tistory.com/455"> @AuthenticationPrincipal 객체에 null이 저장되는 문제</a>
 
 
-# Projects
+# 🧑🏻‍💻 Projects
 ### Written-Me
 - 일기 작성 사이트
 - 배포 URL : https://written-me.store (현재는 접속 안됩니다!)
