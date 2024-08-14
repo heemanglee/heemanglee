@@ -34,16 +34,15 @@
 - MySQL
 - Docker
 - Redis
-- AWS (EC2, RDS, S3)
-- CI/CD (Github Action)
+- AWS (EC2, RDS, S3, Code Deploy, Parameter Store)
+- CI/CD (Github Actions)
   
 # 📝 Recent Blog Posts
 ### Spring
 
+- <a href="https://server-technology.tistory.com/460"> Code Deploy 사용 시에 환경변수가 적용되지 않는 문제</a>
 - <a href="https://server-technology.tistory.com/452"> 다중 인스턴스에서 @Scheduled 문제와 ShedLock 사용하기</a>
 - <a href="https://server-technology.tistory.com/329"> SSE(Server Sent Events)를 사용하여 실시간 알림 기능 사용하기</a>
-- <a href="https://server-technology.tistory.com/327"> 이미지를 AWS S3로 업로드하는 2가지 방법 (MultipartFile, PresignedUrl)</a>
-- <a href="https://server-technology.tistory.com/247"> 엔티티 설계에 대한 고민 </a>
 
 ### Spring Data JPA
 - <a href="https://server-technology.tistory.com/324"> JpaRepository를 사용할 때 @Transactional을 붙여야할까?</a>
