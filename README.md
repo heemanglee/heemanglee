@@ -40,6 +40,7 @@
 # 📝 Recent Blog Posts
 ### Spring
 
+- <a href="https://github.com/heemanglee/learn-repository/discussions/4"> LocalDateTime 검증 시에는 나노초를 일치시키자</a>
 - <a href="https://server-technology.tistory.com/460"> Code Deploy 사용 시에 환경변수가 적용되지 않는 문제</a>
 - <a href="https://server-technology.tistory.com/452"> 다중 인스턴스에서 @Scheduled 문제와 ShedLock 사용하기</a>
 - <a href="https://server-technology.tistory.com/329"> SSE(Server Sent Events)를 사용하여 실시간 알림 기능 사용하기</a>
