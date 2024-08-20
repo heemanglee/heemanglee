@@ -51,6 +51,7 @@
 - <a href="https://server-technology.tistory.com/289"> OSIV(Open Session In View) 정리 </a>
 
 ### Spring Security
+- <a href="https://server-technology.tistory.com/462"> JWT 검증 시에 발생하는 예외는 ExceptionHandler에서 처리할 수 없다.</a>
 - <a href="https://server-technology.tistory.com/455"> @AuthenticationPrincipal 객체에 null이 저장되는 문제</a>
 
 
