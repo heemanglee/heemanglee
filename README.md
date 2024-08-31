@@ -50,10 +50,10 @@
 
 
 # 🧑🏻‍💻 Projects
-### Written-Me
+### ToDoList
 - ToDoList 웹 사이트 
+- 2024.08 ~
 - Backend Repo : https://github.com/heemanglee/todobuddy-backend
-- 진행 중
 
 ### Written-Me
 - 일기 작성 웹 사이트
