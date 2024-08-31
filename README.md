@@ -6,14 +6,6 @@
 - Interests : Java backend developer
 - Blog : [tistory](https://server-technology.tistory.com/), [GitHub](https://github.com/heemanglee/learn-repository/discussions)
 - Email : heemang.dev@gmail.com
-- Education : 컴퓨터공학과, [Dong-A University](https://computer.donga.ac.kr/computer/CMS/Contents/Contents.do?mCode=MN063) (2019.02 ~ 2025.02)
-  - 성적 우수 장학생 (2024.09)
-  - 성적 우수 장학생 (2024.03)
-  - 성적 우수 장학생 (2023.09)
-  - 성적 우수 장학생 (2023.03)
-  - 성적 우수 장학생 (2022.09)
-  - 성적 우수 장학생 (2022.03)
-  - 성적 우수 장학생 (2019.09)
 
 # 📽️ Skills
 ###  Main Language
