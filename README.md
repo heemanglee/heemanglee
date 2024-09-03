@@ -27,7 +27,7 @@
 - MySQL
 - Docker
 - Redis
-- AWS (EC2, RDS, S3, Code Deploy, Parameter Store)
+- AWS EC2, RDS, S3, Code Deploy, CloudWatch, Parameter Store
 - CI/CD (Github Actions)
   
 # 📝 Recent Blog Posts
