@@ -16,18 +16,16 @@
 - JavaScript
 
 ### Backend
-- Spring Boot Framework (Gradle)
+- Spring Framework (Gradle)
 - Spring Security
-- Spring Data Redis
-- JPA (Hibernate), Spring Data JPA
+- Spring Data JPA
 - QueryDSL
-- jQuery, Ajax
 
 ### Dev-Ops
 - MySQL
 - Docker
 - Redis
-- AWS EC2, RDS, S3, Code Deploy, CloudWatch, Parameter Store
+- AWS EC2, RDS, S3, Code Deploy, CloudWatch
 - CI/CD (Github Actions)
   
 # 📝 Recent Blog Posts
