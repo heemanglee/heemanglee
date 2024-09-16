@@ -36,9 +36,14 @@
 - <a href="https://server-technology.tistory.com/452"> 다중 인스턴스에서 @Scheduled 문제와 ShedLock 사용하기</a>
 
 # 🧑🏻‍💻 Projects
+### Damoa
+- 동아리 웹 사이트 
+- 기간 : 2024. 09 ~ ing
+- Backend Repo : https://github.com/donga-it-club/damoa-be
+
 ### ToDoList
 - ToDoList 웹 사이트 
-- 2024.08 ~ ing
+- 기간 : 2024. 08 ~ 2024. 08
 - Backend Repo : https://github.com/heemanglee/todobuddy-backend
 
 ### Written-Me
@@ -48,6 +53,6 @@
   
 ### Past Forward 
 - 회고 보드 웹 사이트
-- 기간 : 2024. 02 ~ ing
+- 기간 : 2024. 02 ~ 2024. 08
 - 배포 URL : https://www.pastforward.link
 - Backend Repo : https://github.com/donga-it-club/past-foward-backend
