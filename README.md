@@ -1,58 +1,43 @@
-# 💁🏻 Information 
-<b>백엔드 개발자</b>에 관심이 있으며, 주로 <b>Java와 Spring Boot</b>를 사용하여 웹 개발을 하고 있습니다. <br>
-더 나은 개발자로 성장하기 위해 배움, 지식 공유 그리고 문제를 해결하는 과정을 좋아합니다.
-
-
-- Interests : Java backend developer
-- Blog : [Tistory](https://server-technology.tistory.com/), [GitHub](https://github.com/heemanglee/learn-repository/discussions)
+## Lee Hee Mang(이희망)
+- Blog : [tistory](https://server-technology.tistory.com/)
 - Email : heemang.dev@gmail.com
 
-# 📽️ Skills
+## Skills
 ###  Main Language
-- Java
-- Kotlin
-
-### Sub Language
-- JavaScript
+<div>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/Java.png" alt="java" height="45px"/>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/kotlin.png" alt="kotlin" height="45px"/>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/javascript.png" alt="javascript" height="40px"/>
+</div>
 
 ### Backend
-- Spring Framework (Gradle)
-- Spring Security
-- Spring Data JPA
-- QueryDSL
+<div>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/spring.png" alt="spring" height="45px"/>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/spring-jpa.png" alt="spring-jpa" height="45px"/>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/spring-security.png" alt="spring-security" height="45px"/>
+</div>
 
-### Dev-Ops
-- MySQL
-- Docker
-- Redis
-- AWS EC2, RDS, S3, Code Deploy, CloudWatch
-- CI/CD (Github Actions)
+### DB
+<div>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/mysql.png" alt="mysql" height="45px"/>
+</div>
+
+### Etc
+<div>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/git.png" alt="git" height="45px"/>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/redis.png" alt="redis" height="45px"/>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/docker.png" alt="docker" height="45px"/>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/github-actions.png" alt="github-actions" height="45px"/>
+</div>
   
-# 📝 Recent Blog Posts
-### Spring
-- <a href="https://server-technology.tistory.com/474"> Redis를 사용하여 조회 성능 개선하기</a>
+## Blog Posts
+- <a href="https://server-technology.tistory.com/480"> Redis를 사용하여 조회 성능 개선하기</a>
+- <a href="https://server-technology.tistory.com/469"> Swagger에서 GET을 제외한 모든 HTTP 메서드에서 발생하는 CORS 문제 해결하기</a>
 - <a href="https://server-technology.tistory.com/462"> JWT 검증 시에 발생하는 예외는 ExceptionHandler에서 처리할 수 없다.</a>
 - <a href="https://server-technology.tistory.com/460"> Code Deploy 사용 시에 환경변수가 적용되지 않는 문제</a>
-- <a href="https://server-technology.tistory.com/452"> 다중 인스턴스에서 @Scheduled 문제와 ShedLock 사용하기</a>
 
-# 🧑🏻‍💻 Projects
-### Damoa
-- 동아리 웹 사이트 
-- 기간 : 2024. 09 ~ ing
-- Backend Repo : https://github.com/donga-it-club/damoa-be
-
-### ToDoList
-- ToDoList 웹 사이트 
-- 기간 : 2024. 08 ~ 2024. 08
-- Backend Repo : https://github.com/heemanglee/todobuddy-backend
-
-### Written-Me
-- 일기 작성 웹 사이트
-- 기간 : 2024. 07 ~ 2024.07
-- Backend Repo : https://github.com/heemanglee/written-me
-  
-### Past Forward 
-- 회고 보드 웹 사이트
-- 기간 : 2024. 02 ~ 2024. 08
-- 배포 URL : https://www.pastforward.link
-- Backend Repo : https://github.com/donga-it-club/past-foward-backend
+## Projects
+- <a href="https://github.com/donga-it-club/damoa-be"> 동아리 웹 사이트</a> 
+- <a href="https://github.com/heemanglee/todobuddy-backend"> TodoList 서비스</a> 
+- <a href="https://github.com/heemanglee/written-me"> AI가 공감해주는 일기 서비스</a> 
+- <a href="https://github.com/donga-it-club/past-foward-backend"> 회고 보드 서비스</a>
