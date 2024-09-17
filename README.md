@@ -3,7 +3,7 @@
 - Email : heemang.dev@gmail.com
 
 ## Skills
-###  Main Language
+###  Language
 <div>
   <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/Java.png" alt="java" height="45px"/>
   <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/kotlin.png" alt="kotlin" height="45px"/>
