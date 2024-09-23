@@ -20,19 +20,19 @@
 ### DB
 <div>
   <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/mysql.png" alt="mysql" height="45px"/>
+  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/redis.png" alt="redis" height="45px"/>
 </div>
 
 ### Etc
 <div>
   <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/git.png" alt="git" height="45px"/>
-  <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/redis.png" alt="redis" height="45px"/>
   <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/docker.png" alt="docker" height="45px"/>
   <img src="https://github.com/heemanglee/heemanglee/blob/main/icons/github-actions.png" alt="github-actions" height="45px"/>
 </div>
   
 ## Blog Posts
 - <a href="https://server-technology.tistory.com/480"> Redis를 사용하여 조회 성능 개선하기</a>
-- <a href="https://server-technology.tistory.com/469"> Swagger에서 GET을 제외한 모든 HTTP 메서드에서 발생하는 CORS 문제 해결하기</a>
+- <a href="https://server-technology.tistory.com/481"> @Value는 static 변수에 사용할 수 없다.</a>
 - <a href="https://server-technology.tistory.com/462"> JWT 검증 시에 발생하는 예외는 ExceptionHandler에서 처리할 수 없다.</a>
 - <a href="https://server-technology.tistory.com/460"> Code Deploy 사용 시에 환경변수가 적용되지 않는 문제</a>
 
