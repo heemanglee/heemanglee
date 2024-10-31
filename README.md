@@ -31,7 +31,7 @@
 </div>
   
 ## Blog Posts
-- <a href="https://server-technology.tistory.com/513"> 동시에 들어오는 모든 요청을 처리하는 방법, 두 번의 갱실 문제</a>
+- <a href="https://server-technology.tistory.com/513"> 동시에 들어오는 모든 요청을 처리하는 방법, 두 번의 갱신 분실 문제</a>
 - <a href="https://server-technology.tistory.com/498"> 테스트 데이터 클렌징 시에 deleteAll(), deleteAllInBatch(), @Transactional 중에 무엇을 사용해야할까?</a>
 - <a href="https://server-technology.tistory.com/495"> 스프링 시큐리티 환경에서 @WebMvcTest 사용 시에 발생하는 401, 403 에러 해결하기</a>
 - <a href="https://server-technology.tistory.com/489"> 테스트 코드에서 JPA + @Trasnactional 사용 시 주의점</a>
