@@ -2,8 +2,6 @@
 - Blog : [tistory](https://server-technology.tistory.com/)
 - Email : heemang.dev@gmail.com
 
-![Metrics](/github-metrics.svg)
-
 ## Skills
 ### Back-end
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,redis)](https://skillicons.dev)
