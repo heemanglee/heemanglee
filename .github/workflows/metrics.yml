@@ -14,4 +14,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: github-metrics.svg
-          bae: ""
+          base: ""
