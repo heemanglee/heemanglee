@@ -1,11 +1,9 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
-  workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  schedule: [{cron: "0 0 * * *"}]  # 매일 자정 실행
+  workflow_dispatch:              # 수동 실행 가능
+  push: {branches: ["master", "main"]}  # master/main 브랜치에 푸시 시 실행
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -19,4 +17,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_display: ""  # 불필요한 플러그인 비활성화
           filename: github-metrics.svg
