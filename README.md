@@ -6,21 +6,22 @@
 
 ## Skills
 ### Back-end
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=mysql,redis)](https://skillicons.dev)
 
 ### Front-end
 [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)
 
 ### Etc
-[![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,githubactions,aws)](https://skillicons.dev)
 
 ## Projects 
-- <a href="https://github.com/heemanglee/todobuddy-backend"> TodoList 서비스</a> 
-- <a href="https://github.com/heemanglee/written-me"> AI가 공감해주는 일기 서비스</a> 
-- <a href="https://github.com/donga-it-club/past-foward-backend"> 회고 보드 서비스</a>
+- <a href="https://github.com/heemanglee/todobuddy-backend"> TodoList 웹서비스</a> 
+- <a href="https://github.com/heemanglee/written-me"> AI 공감 일기 웹서비스</a> 
+- <a href="https://github.com/donga-it-club/past-foward-backend"> 회고 보드 웹서비스</a>
 
 ## Education
-- 동아대학교 / 컴퓨터공학과 (평점 4.16 / 4.5)
+- 동아대학교 / 컴퓨터공학과 (2019.02 ~ 2025.02) 
 > - 문제해결기법 A
 > - 운영체제 A
 > - 알고리즘 A
