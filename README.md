@@ -2,7 +2,7 @@
 - Blog : [tistory](https://server-technology.tistory.com/)
 - Email : heemang.dev@gmail.com
 
-<img src="profile-3d-contrib/profile-night-green.svg" alt="night green version" width="800" height="600">
+![Metrics](/github-metrics.svg)
 
 ## Skills
 ### Back-end
