@@ -1,6 +1,6 @@
 ## Heemang Lee
 
-- Email: heemang.dev@gmail.com
+- Email: heemang.lee@nextintelligence.ai
 - Blog: [server-technology.tistory.com](https://server-technology.tistory.com/)
 
 ## About Me
