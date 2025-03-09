@@ -27,5 +27,5 @@ I maintain a **technical blog** where I share insights from my development and o
 - [다중 AZ(Multi-AZ)로 구성한 Amazon RDS는 EBS를 공유할 수 없다.](https://server-technology.tistory.com/539)
 - [ASG & ELB 실습 가이드](https://server-technology.tistory.com/540)
 
-## Githun Metrics
+## Github Metrics
 ![](/github-metrics.svg)
