@@ -2,6 +2,7 @@
 
 - Email: heemang.lee@nextintelligence.ai
 - Blog: [server-technology.tistory.com](https://server-technology.tistory.com/)
+- portfolio : [heemang.site](https://heemang.site/)
 
 ## About Me
 Hi! I work as a **DevOps Engineer**, building and operating **AWS infrastructure** utilizing **Infrastructure as Code (IaC)**. I focus on infrastructure automation and optimization using IaC, with the goal of designing highly scalable and reliable cloud environments.
