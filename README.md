@@ -13,8 +13,7 @@
 - I'm constantly sharing my knowledge on my blog, summarising the devops insights and experiences I've learnt in my work. In doing so, I hope to make it easier for those without experience.
 
 ## ✍️ Posts
-
+- 📌 [Today I Learned](https://github.com/heemanglee/TIL/discussions)
 - 🔗 [Hallucination을 줄이면서 AI를 효과적으로 사용하는 방법](https://server-technology.tistory.com/552)
 - 🔗 [Aurora MySQL와 표준 MySQL에서의 binary logging 차이점](https://server-technology.tistory.com/553)
 - 🔗 [EventBridge Scheduler와 Lambda로 개발 서버 비용 절감하기](https://server-technology.tistory.com/551)
-- 🔗 [Cursor와 AI를 활용한 애플리케이션 개발 경험](https://server-technology.tistory.com/550)
