@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Heemang Lee
+Backend, DevOps Engineer
+
+- Email: heemang.dev@gmail.com
+- Blog: [heemang.site](https://heemang.site)
+
 ![](/github-metrics.svg)
 
 ## My Skills
