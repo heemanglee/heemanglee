@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Heemang Lee
 
-- Profile: [heemang.site](https://heemang.site)
-- Blog: [server-technology.tistory.com](https://server-technology.tistory.com)
-
 ![](/github-metrics.svg)
 
 ## ✍️ Posts
