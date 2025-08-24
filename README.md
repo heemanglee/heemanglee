@@ -11,4 +11,5 @@
 
 
 #### ✍︎ SNS
-[<img src="https://img.shields.io/badge/tistory-FC3E04?style=flat&logo=tistory&logoColor=white"/>](https://server-technology.tistory.com) [<img src="https://img.shields.io/badge/blog-BE3939?style=flat&logo=bloglovin&logoColor=white"/>]([https://server-technology.tistory.com](https://server-technology.tistory.com))
+[<img src="https://img.shields.io/badge/tistory-FC3E04?style=flat&logo=tistory&logoColor=white"/>](https://server-technology.tistory.com) [<img src="https://img.shields.io/badge/blog-BE3939?style=flat&logo=tistory&logoColor=white"/>](https://heemang.site)
+
