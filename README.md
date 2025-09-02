@@ -9,7 +9,5 @@
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white">
 
-
-#### ✍︎ SNS
-[<img src="https://img.shields.io/badge/tistory-FC3E04?style=flat&logo=tistory&logoColor=white"/>](https://server-technology.tistory.com) [<img src="https://img.shields.io/badge/blog-BE3939?style=flat&logo=tistory&logoColor=white"/>](https://heemang.site)
-
+#### ✎ Blogs
+- [NAT Gateway 대신 NAT Instance로 비용 절감하기 (with 트러블슈팅)](https://heemang.site/posts/NAT_Instance/)
