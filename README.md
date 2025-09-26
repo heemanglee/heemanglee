@@ -1,7 +1,3 @@
-#### ☻ About Me
-
-일찍 퇴근하는 방법에 대해 고민하는 것을 좋아하는 개발자입니다.
-
 #### ⇥ Career
 - **NextIntelligence.ai** (2025.02 ~ ing)
     - DevOps Engineer & Backend Developer
@@ -16,4 +12,3 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-3776AB?style=flat&logo=fastapi&logoColor=white"> 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) <img src="https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white">
-
