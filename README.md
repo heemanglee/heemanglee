@@ -1,9 +1,3 @@
-#### About Me
-
-바이브코딩 그리고 작업 효율성을 높이기 위해 업무 자동화하는 것에 관심 있습니다.
-- 사내에서 사용 중인 각 서비스의 로그를 한 곳에서 관리
-- 매주 발생하는 인프라 비용을 계산하고, 이를 기반으로 분석 및 제안 자동화
-
 #### ⇥ Career
 - **NextIntelligence.ai** (2025.02 ~ ing)
     - DevOps Engineer & Backend Developer
