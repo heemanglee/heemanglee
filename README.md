@@ -6,9 +6,10 @@
 
 #### 💻 Career
 
-- 지란지교소프트 (~ing)
+- 지란지교소프트 (Present)
   - Backend Developer
-- NextIntellignece.ai
+- NextIntelligence.ai
+  - DevOps Engineer
   - Backend Developer
 
 #### ⚒️ Skills
