@@ -1,12 +1,24 @@
-#### 💻 Career
+#### 💻 Backend Developer
 
-- 지란지교소프트 (Present)
-  - Backend Developer
-- NextIntelligence.ai
-  - DevOps Engineer
-  - Backend Developer
- 
-#### ✍️ Posts
+- LLM/RAG 기반 B2B SaaS의 백엔드와 문서 처리 파이프라인을 개발합니다.
+- 비동기 작업, 검색 시스템, 장애 대응을 통해 제품의 안정성을 개선해 왔습니다.
+- AWS 기반 환경에서 백엔드 서비스를 개발·운영하고 배포 자동화를 수행합니다.
 
-- [[OpenSearch] Primary Shard와 Replica Shard 동작 원리](https://velog.io/@w1shope/OpenSearch-Primary-Shard%EC%99%80-Replica-Shard-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
-- [TanStack Start에서 이미지 요청시 Lambda를 우회해야 하는 이유](https://velog.io/@w1shope/tanstack-start%EC%97%90%EC%84%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9A%94%EC%B2%AD%EC%9D%B4-lambda%EB%A5%BC-%EC%9A%B0%ED%9A%8C%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+#### 🛠 Tech Stack
+
+- **Backend**: Python, FastAPI, Celery
+- **Data & Search**: MySQL, Redis, OpenSearch, DynamoDB
+- **Messaging**: SQS
+- **AI**: LangChain, LangGraph, RAG
+- **Cloud**: AWS, Pulumi, GitHub Actions
+
+#### 💼 지란지교소프트 · Backend Developer · Present
+
+- 문서 ingestion 파이프라인 개발
+- LangChain 기반 챗봇 개발 및 LangGraph 기반 RAG 고도화 진행
+- AWS 기반 환경에서 백엔드 서비스 개발·운영 및 배포 자동화
+- IaC 기반 환경 관리 및 클라우드 운영 비용 최적화
+
+---
+
+![](/github-metrics.svg)
